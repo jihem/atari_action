@@ -6,11 +6,11 @@
     =    Author: jean-marc "jihem" quere 2016 - jean-marc.quere@codyssea.com
 ```
 
-This repository is dedicated to [Atari][https://en.wikipedia.org/wiki/Atari] 8-bit computers. All the files (except this one) use the native encoding: [ATASCII][https://en.wikipedia.org/wiki/ATASCII] for text, [6502C][https://fr.wikipedia.org/wiki/MOS_Technology_6502] machine code for binary.
+This repository is dedicated to [Atari](https://en.wikipedia.org/wiki/Atari) 8-bit computers. All the files (except this one) use the native encoding: [ATASCII](https://en.wikipedia.org/wiki/ATASCII) for text, [6502C](https://fr.wikipedia.org/wiki/MOS_Technology_6502) machine code for binary.
 
-The [Action!][https://atariwiki.org/wiki/Wiki.jsp?page=Action#section-Action-OriginalCARImages] Integrated Development Environment is required to compile the **.ACT** files (using the [SpartaDOS X][https://atariwiki.org/wiki/Wiki.jsp?page=SpartaDosXReview] Operating System due to directory structure).
+The [Action!](https://atariwiki.org/wiki/Wiki.jsp?page=Action#section-Action-OriginalCARImages) Integrated Development Environment is required to compile the **.ACT** files (using the [SpartaDOS X](https://atariwiki.org/wiki/Wiki.jsp?page=SpartaDosXReview) Operating System due to directory structure).
 
-All code is written and tested on a **real** Atari 800 XL with [U1MB][https://lotharek.pl/productdetail.php?id=56] and [Side2][https://retrolemon.co.uk/atari-8bit-storage-devices/20-side2-cartridge.html].
+All code is written and tested on a **real** Atari 800 XL with [U1MB](https://lotharek.pl/productdetail.php?id=56) and [Side2](https://retrolemon.co.uk/atari-8bit-storage-devices/20-side2-cartridge.html).
 
 Recommended version:
 - U1MB with Side2 PBI BIOS 4.20
